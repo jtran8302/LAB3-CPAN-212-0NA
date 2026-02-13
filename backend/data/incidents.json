@@ -1,0 +1,20 @@
+[
+  {
+    "id": "27d3a3e0-e2bf-4dd7-a064-859a955a9eef",
+    "title": "Hello World",
+    "description": "Hello World",
+    "category": "IT",
+    "severity": "LOW",
+    "status": "OPEN",
+    "reportedAt": "2026-02-12T22:36:16.178Z"
+  },
+  {
+    "id": "6e5c71cd-189f-47ce-bc0a-919f0391c63c",
+    "title": "Hello there",
+    "description": "This is a Star Wars reference",
+    "category": "OTHER",
+    "severity": "HIGH",
+    "status": "ARCHIVED",
+    "reportedAt": "2026-02-12T22:42:48.451Z"
+  }
+]
